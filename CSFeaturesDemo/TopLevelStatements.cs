@@ -2,7 +2,7 @@
 using System.Text.Json;
 using CSFeaturesDemo;
 
-Console.WriteLine("Record Demo");
+Console.WriteLine("Records Demo");
 Person p1 = new("Raja", "Mani");
 Person p2 = new("Jhansi", "Raja");
 
