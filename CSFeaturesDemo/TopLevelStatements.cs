@@ -70,7 +70,7 @@ Console.WriteLine(SwitchExpressionDemo.DisplayShapeInfo(triangle));
 Console.WriteLine(SwitchExpressionDemo.DisplayShapeInfo(unknownShape));
 
 // TuplePattern Demo
-Console.WriteLine("TuplePattern Demo");
+Console.WriteLine("TuplePatterns Demo");
 Console.WriteLine($"A combination of {Color.Red} + {Color.Blue} gives {TuplePatternDemo.GetColor(Color.Red, Color.Blue)}");
 Console.WriteLine($"A combination of {Color.Red} + {Color.Yellow} gives {TuplePatternDemo.GetColor(Color.Red, Color.Yellow)}");
 Console.WriteLine($"A combination of {Color.Red} + {Color.Green} gives {TuplePatternDemo.GetColor(Color.Red, Color.Blue)}");
